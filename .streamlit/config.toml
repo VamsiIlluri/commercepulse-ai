@@ -1,0 +1,9 @@
+[theme]
+primaryColor        = "#6366f1"        # Indigo - modern, professional
+backgroundColor     = "#0f172a"        # Dark navy background
+secondaryBackgroundColor = "#1e293b"   # Slightly lighter for cards/sidebar
+textColor           = "#f1f5f9"        # Near-white text
+font                = "sans serif"
+
+[server]
+headless = true
